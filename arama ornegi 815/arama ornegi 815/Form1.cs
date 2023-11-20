@@ -21,6 +21,7 @@ namespace arama_ornegi_815
         {
             string aranan = txtAra.Text;
             bool bulundu = false;
+            int sayac = 0;
 
             for (int i =0; i < 20; i++)
             {
@@ -28,12 +29,12 @@ namespace arama_ornegi_815
                 if (kisi == lbKisi.Items[i].ToString()) 
                 {
                     bulundu = true;
-                    break;
+                    sayac++;
                 }
             }
             if (bulundu)
             {
-                lblSonuc.Text = "Aranan kişi bulundu";
+                lblSonuc.Text = "Aranan kişiden" + sayac+ "tane var";
             }
             else
             {
