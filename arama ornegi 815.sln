@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arama ornegi 815", "arama ornegi 815\arama ornegi 815.csproj", "{6892B443-80F7-4EC3-8F79-5720D86584D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6892B443-80F7-4EC3-8F79-5720D86584D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6892B443-80F7-4EC3-8F79-5720D86584D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6892B443-80F7-4EC3-8F79-5720D86584D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6892B443-80F7-4EC3-8F79-5720D86584D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {286ECBC8-0B32-4690-BCE3-737966F6C99F}
+	EndGlobalSection
+EndGlobal
